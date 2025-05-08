@@ -1,0 +1,20 @@
+These images were saved from a previous training run for demonstration purposes.
+
+They include:
+- vit_overlay.png
+- bert_attention.png
+- confusion_matrix.png
+- roc_auc.png
+- class_dist.png
+- training_accuracy.png
+- training_f1_score.png
+- training_loss.png
+- modality_comparison.png
+- probabilities
+- early_stop_colab.png
+- gradio_demo.png
+- model_flowchart.png
+
+If needed, the latest outputs can be reproduced by running `main.py` & `app.py`, and the figures will be saved again.
+
+All output figures are shown in the poster and final report (PDF), and these images are placed here as references.

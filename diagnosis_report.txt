@@ -1,0 +1,11 @@
+Diagnosis Report — 2025-05-07 04:33:04
+Selected Model: Fusion
+Prediction: COVID
+Confidence: 99.40%
+
+Top-3 Predictions:
+COVID: 99.40%
+Lung Cancer: 0.42%
+Normal: 0.09%
+
+Symptoms Provided: chest pain; loss of taste; fever
