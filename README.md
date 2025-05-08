@@ -47,6 +47,30 @@ Tuberculosis Chest X-rays (Shenzhen)
 NIH Chest X-ray
 ([https://www.kaggle.com/datasets/nih-chest-xrays/data/data](https://www.kaggle.com/datasets/nih-chest-xrays/data/data))
 
+**IMPORTANT:**
+Due to GitHub file size limits, the full image dataset used for training and evaluation is provided via Google Drive:
+
+📌 Download Link:
+👉 https://drive.google.com/file/d/1lTrPZdmJWNK6vUdf7w0bLdjGTYIDwlTl/view?usp=sharing
+
+After downloading:
+
+🔻 Unzip and place the `images/` folder inside the `data/` directory:
+
+```
+multi_modal_diagnosis/
+├── data/
+│   └── images/
+│       ├── COVID/
+│       ├── Normal/
+│       ├── Lung Cancer/
+│       ├── Viral Pneumonia/
+│       └── Tuberculosis/
+```
+
+This structure is necessary for the dataset loader to work correctly.
+
+
 ---
 
 ## 📂 Project Structure
