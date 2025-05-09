@@ -7,7 +7,7 @@
 This deep learning project combines chest X-ray images and patient symptom descriptions to diagnose **five respiratory diseases** using a multi-modal AI system. It leverages **Vision Transformers (ViT)** for image analysis and **BERT** for understanding patient symptoms, offering both high accuracy and strong interpretability.
 
 ---
-
+ 
 ## 🔍 Project Overview
 
 * **Image Encoder:** `ViT (vit_base_patch16_224)`
