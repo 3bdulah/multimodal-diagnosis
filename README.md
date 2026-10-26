@@ -4,7 +4,7 @@
 
 # 🧠 Multi-Modal Chest X-ray Diagnosis using Vision Transformers and BERT
 
-This deep learning project combines chest X-ray images and patient symptom descriptions to diagnose **five respiratory diseases** using a multi-modal AI system. It leverages **Vision Transformers (ViT)** for image analysis and **BERT** for understanding patient symptoms, offering both high accuracy and strong interpretability.
+This educational research prototype combines chest X-ray images with generated symptom metadata using a multimodal model (ViT + BERT) to classify five dataset labels. **It is not a medical device, has not been clinically validated, and must not be used for diagnosis or treatment decisions.** The symptom metadata is synthetic rather than patient-reported clinical data, so results do not establish that the system can safely integrate real clinical histories.
 
 ---
  
